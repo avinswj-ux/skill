@@ -1,0 +1,17 @@
+.DS_Store
+
+# Generated media and render artifacts
+output/
+renders/
+snapshots/
+videos/
+.chatcut-cli/node_modules/
+
+# Temporary files
+tmp/*
+!tmp/*.py
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example

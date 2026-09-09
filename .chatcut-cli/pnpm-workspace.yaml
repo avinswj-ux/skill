@@ -1,0 +1,2 @@
+allowBuilds:
+  '@chatcut/skill': set this to true or false

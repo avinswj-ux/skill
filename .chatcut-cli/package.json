@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"@chatcut/skill": "^0.2.1"
+	}
+}
